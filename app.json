@@ -1,0 +1,12 @@
+{
+  "name": "ExpoFP testio app",
+  "description": "",
+  "buildpacks": [
+    {
+      "url": "https://github.com/mxschmitt/heroku-playwright-buildpack.git"
+    },
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
