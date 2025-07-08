@@ -2,6 +2,9 @@
 This app is for Smoke Tests Automation, written in OOP style by implementing PageObject development pattern.
 ![alt text](https://github.com/PlatonZvonkov/PlaywrightSmokeAutotests/blob/live/PageObject.drawio%20(2).png)
 
+Check latest runs and report here:
+https://github.com/PlatonZvonkov/PlaywrightSmokeAutotests/actions/runs/16148990265
+
 To run and view tests locally in real time, you need to:
 
   -  Clone the repo to your local machine
