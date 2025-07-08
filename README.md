@@ -34,3 +34,5 @@ https://github.com/PlatonZvonkov/testio/actions/workflows/playwright-live.yml
 
 Framework documentation:
 https://playwright.dev/
+
+![alt text](https://github.com/PlatonZvonkov/PlaywrightSmokeAutotests/blob/live/PageObject.drawio%20(2).png)
