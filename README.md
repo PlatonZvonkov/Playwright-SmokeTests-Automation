@@ -1,4 +1,4 @@
-# Playwright
+# Smoke Tests via Playwright Framework
 This app is for Smoke Tests Automation, written in OOP style by implementing PageObject development pattern.
 ![alt text](https://github.com/PlatonZvonkov/PlaywrightSmokeAutotests/blob/live/PageObject.drawio%20(2).png)
 
